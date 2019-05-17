@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import Counter from './Counter';
 
 
-class App extends Component {
+class OldApp extends Component {
 
   constructor() {
     super();
@@ -56,4 +56,4 @@ class App extends Component {
 
 }
 
-export default App;
+export default OldApp;
